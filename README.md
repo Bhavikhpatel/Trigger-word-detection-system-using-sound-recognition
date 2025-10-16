@@ -1,0 +1,2 @@
+# Trigger-word-detection-system-using-sound-recognition
+This project uses a deep learning model to detect a specific "trigger word" or "wake word" in a 10-second audio clip. When the trigger word "activate" is detected, the model outputs a signal, which is used here to overlay a chime sound on the original audio. This is similar to the technology used in voice assistants like "Hey Siri" or "Ok Google".
